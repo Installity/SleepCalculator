@@ -28,7 +28,6 @@ while True:
     if extraSleepTime > 0:
         print("Extra Fall-Asleep Time: ", extraSleepTime, "minutes")
     
-    # Display the main menu, including an option to exit (0)
     print("MAIN MENU:")
     print("1: Calculate wake up time (if you go to sleep now)")
     print("2: Calculate sleep times (if you have a desired wake-up time)")
